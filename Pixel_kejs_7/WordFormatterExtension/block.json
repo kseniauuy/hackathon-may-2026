@@ -1,0 +1,37 @@
+{
+    "type": "WordFormatterExtension",
+    "message0": "Очистить и отформатировать Word документ %1 Сохранить в %2 Шрифт %3 Размер %4 Плейсхолдеры %5",
+    "args0": [
+        {
+            "type": "input_value",
+            "name": "SOURCE_PATH",
+            "description": "Путь к исходному .docx файлу"
+        },
+        {
+            "type": "input_value",
+            "name": "OUTPUT_PATH",
+            "description": "Путь для сохранения результата (опционально)"
+        },
+        {
+            "type": "input_value",
+            "name": "FONT_NAME",
+            "description": "Название шрифта (например, Times New Roman)"
+        },
+        {
+            "type": "input_value",
+            "name": "FONT_SIZE",
+            "description": "Размер шрифта в пунктах"
+        },
+        {
+            "type": "input_value",
+            "name": "PLACEHOLDERS",
+            "description": "Словарь для замены плейсхолдеров в формате JSON: {\"{{key}}\": \"value\"}"
+        }
+    ],
+    "inputsInline": false,
+    "previousStatement": null,
+    "nextStatement": null,
+    "colour": "#20B2AA",
+    "tooltip": "Очищает документ Word от лишнего форматирования, унифицирует шрифт, определяет заголовки, оформляет таблицы и заменяет плейсхолдеры",
+    "helpUrl": ""
+}
