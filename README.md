@@ -45,5 +45,3 @@
 <img width="400" height="225" alt="2026-05-23 17-04-14" src="https://github.com/user-attachments/assets/a0300f0f-8f26-41e0-9e3d-466da0f83d6c" />
 
 [Ссылка](https://rutube.ru/video/bb5607852848679c27f4f2e4b8b16a12/?r=wd)
-
-Также пожробный отчет предотавлен в документе "Чекпоинт 1 Отчет" по [Ссылка]()
