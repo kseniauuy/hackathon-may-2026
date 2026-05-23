@@ -4455,3 +4455,279 @@
 2026-05-23T16:57:00+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\1b36fdfe-31a9-452a-8370-04deeacda880\main.py Завершение. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
 2026-05-23T16:57:00+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\1b36fdfe-31a9-452a-8370-04deeacda880\main.py Старт. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
 2026-05-23T16:57:01+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\1b36fdfe-31a9-452a-8370-04deeacda880\main.py Выполнение. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
+2026-05-23T17:38:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:38:32+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\344eeefa-2bb0-4db8-864a-b5f899657bd1\main.py
+2026-05-23T17:38:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\344eeefa-2bb0-4db8-864a-b5f899657bd1\main.py Робот запущен
+2026-05-23T17:38:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\344eeefa-2bb0-4db8-864a-b5f899657bd1\main.py Отправляю запрос в 1С
+2026-05-23T17:39:13+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\344eeefa-2bb0-4db8-864a-b5f899657bd1\main.py Ошибка выполнения робота
+2026-05-23T17:39:13+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\344eeefa-2bb0-4db8-864a-b5f899657bd1\main.py
+2026-05-23T17:39:13+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:46:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:46:04+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\cac1126f-4a3e-4d6e-9c56-5ebf8d86cab2\main.py
+2026-05-23T17:46:04+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\cac1126f-4a3e-4d6e-9c56-5ebf8d86cab2\main.py Робот запущен
+2026-05-23T17:46:04+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\cac1126f-4a3e-4d6e-9c56-5ebf8d86cab2\main.py Отправляю запрос в 1С
+2026-05-23T17:46:44+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\cac1126f-4a3e-4d6e-9c56-5ebf8d86cab2\main.py Ошибка выполнения робота
+2026-05-23T17:46:44+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\cac1126f-4a3e-4d6e-9c56-5ebf8d86cab2\main.py
+2026-05-23T17:46:45+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:51:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:51:48+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\cd220e81-86f7-4575-95bf-c16984b9bce0\main.py
+2026-05-23T17:51:48+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\cd220e81-86f7-4575-95bf-c16984b9bce0\main.py Робот запущен
+2026-05-23T17:51:48+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\cd220e81-86f7-4575-95bf-c16984b9bce0\main.py Отправляю запрос в 1С
+2026-05-23T17:52:28+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\cd220e81-86f7-4575-95bf-c16984b9bce0\main.py Ошибка выполнения робота
+2026-05-23T17:52:28+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\cd220e81-86f7-4575-95bf-c16984b9bce0\main.py
+2026-05-23T17:52:29+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:53:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T17:53:44+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\ef562acc-2477-41dd-9092-d56cf752f58d\main.py
+2026-05-23T17:53:44+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\ef562acc-2477-41dd-9092-d56cf752f58d\main.py Робот запущен
+2026-05-23T17:53:44+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\ef562acc-2477-41dd-9092-d56cf752f58d\main.py Отправляю запрос в 1С
+2026-05-23T17:54:25+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\ef562acc-2477-41dd-9092-d56cf752f58d\main.py Ошибка выполнения робота
+2026-05-23T17:54:25+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\ef562acc-2477-41dd-9092-d56cf752f58d\main.py
+2026-05-23T17:54:25+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T18:36:03+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py
+2026-05-23T18:36:03+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T18:36:03+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T18:36:03+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Робот запущен
+2026-05-23T18:36:03+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Отправляю запрос в 1С
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T18:36:07+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Преобразовать строку в число. id: {Rsp$JX%Cwa].U=6UmD=
+2026-05-23T18:36:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Преобразовать строку в число. id: {Rsp$JX%Cwa].U=6UmD=
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T18:36:11+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Преобразовать строку в число. id: uw`j?F`+X9C3RI;{kpUw
+2026-05-23T18:36:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Преобразовать строку в число. id: uw`j?F`+X9C3RI;{kpUw
+2026-05-23T18:36:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T18:36:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Преобразовать строку в число. id: 92hAgGOGGlotF2$TAf{$
+2026-05-23T18:36:33+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Преобразовать строку в число. id: 92hAgGOGGlotF2$TAf{$
+2026-05-23T18:36:38+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Завершение. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T18:36:38+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Старт. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
+2026-05-23T18:36:44+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\5fde709a-146d-48e8-8072-0935444b7170\main.py Выполнение. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
+2026-05-23T22:18:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T22:18:11+0300 Окно выполнения: main: ERROR:  ["stderr:","  File \"C:\\Users\\Ksenya\\Desktop\\hakaton\\main\\resource\\557a0847-6f97-4fe6-b283-7880b4ead4f5\\main.py\", line 31\r\n    desktop_interface.wait_visible_el(focus_element=\"TRUE\",timeout_el=,element_string=f'[{{\"ControlTypeName\":\"PaneControl\",\"Name\":\"Puzzle RPA\",\"ClassName\":\"Chrome_WidgetWin_1\"}},{{\"ControlTypeName\":\"DocumentControl\",\"Name\":\"Puzzle RPA\",\"ClassName\":\"Chrome_RenderWidgetHostHWND\"}},{{\"ControlTypeName\":\"GroupControl\",\"AutomationId\":\"q-app\"}},{{\"ControlTypeName\":\"GroupControl\"}},{{\"ControlTypeName\":\"GroupControl\"}},{{\"ControlTypeName\":\"GroupControl\",\"AutomationId\":\"entire-workspace-space\"}},{{\"ControlTypeName\":\"GroupControl\"}},{{\"ControlTypeName\":\"GroupControl\"}},{{\"ControlTypeName\":\"GroupControl\",\"Name\":\"Рабочая область Blockly\"}},{{\"ControlTypeName\":\"ImageControl\"}},{{\"ControlTypeName\":\"GroupControl\"}},{{\"ControlTypeName\":\"TextControl\",\"Name\":\" ▾\"}}]',block_text=\"Ожидать появления элемента\",window_log=True, current_language=\"ru\")\r\n                                                                      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-05-23T22:18:24+0300 ERROR: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-23T22:19:19+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py
+2026-05-23T22:19:19+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T22:19:23+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T22:19:23+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Робот запущен
+2026-05-23T22:19:23+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Отправляю запрос в 1С
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:19:24+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T22:19:30+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T22:19:30+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:19:30+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:19:30+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:19:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:19:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:19:32+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T22:19:35+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: y:}|lxK((=67v}qu8Ym-
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: [Q2@mu?#NQ2xEX2OXYF$
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T22:19:36+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Задержка. id: `^?P,o-StU!YIwW:*51`
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: !*p3azK$H5lkwE@DW$s_
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T22:19:56+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T22:19:57+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: ]8Xi8xyWQkijnuXN/Mwn
+2026-05-23T22:19:57+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T22:19:57+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T22:20:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Завершение. Выполняемый шаг: Задержка. id: VU)/`[}phd5x(Hgc{WKY
+2026-05-23T22:20:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Старт. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
+2026-05-23T22:20:22+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\41443e75-3eb3-4892-a2f3-8563842d7c6f\main.py Выполнение. Выполняемый шаг: Ввод в 1C-веб. id: GY)ZR_u4zf.~_0inu*)x
+2026-05-23T22:21:58+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py
+2026-05-23T22:21:58+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T22:22:01+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Обработка ошибки. id: E(ohZ?TiZWX5;}Gqu-r,
+2026-05-23T22:22:01+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Робот запущен
+2026-05-23T22:22:01+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: uT8K_dR,wNXk4m?dkCsM
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :MAZ.Rz62:ZsFDl7vQQJ
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: WBqw15|Z#}dx_{yM[UJS
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Прочитать файл. id: h-7qLFMP}Ex#VZ)Ao@jd
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ZD}VS]B8yU%7IR$_1:gx
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ^0R|78#C*6Lo31|B;%K9
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: yIzw35kV+o$aK/*W)TAR
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: {Y3[LIYCU-/HNVs!NERe
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: p$O:QoI+|4ux$8{ysFr:
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Преобразовать дату. id: y@cWp{?HPKMT0X6Rp6I$
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ~|`}hQkYrPr!yvRWehM_
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: ]Nwow_`34-zY1snYsMa=
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 7qHD^~+B#bUSw)9hi;V5
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 3oGjmJ`CaVRVz9#qu*_m
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: :kF]*7FA#}yI!L)At3D0
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Отправляю запрос в 1С
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:22:02+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T22:22:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Создать сессию браузера. id: 4#bM-7PYt%bTkrSh8bfZ
+2026-05-23T22:22:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 5Ew%Wt$JK+7d7TXLxId_
+2026-05-23T22:22:08+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:22:10+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:22:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Открыть страницу в браузере. id: _{QT4zD{Fqs69!/:|#zp
+2026-05-23T22:22:12+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:22:15+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Задержка. id: ??=,o)g^!HRb+gO2+Wzh
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Клик по Web-элементу. id: EBp7HZH}x+19aqf!)2/)
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Выполнение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Завершение. Выполняемый шаг: Ввод в веб-сайт. id: %w9B]^SDY]u6w8A[VN]B
+2026-05-23T22:22:18+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e99d520c-92d5-47ac-8f8c-4941869dc48b\main.py Старт. Выполняемый шаг: Клик по Web-элементу. id: H6A$`ZrfUnP;M.)V!gP%
