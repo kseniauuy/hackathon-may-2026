@@ -1,0 +1,218 @@
+2026-05-23T00:00:24+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\fbb442ed-1099-4175-8c54-cd7563072f69\Logger.py
+2026-05-23T00:00:24+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\fbb442ed-1099-4175-8c54-cd7563072f69\FormHandler.py
+2026-05-23T00:00:26+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\fbb442ed-1099-4175-8c54-cd7563072f69\Reader.py
+2026-05-23T00:00:26+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\fbb442ed-1099-4175-8c54-cd7563072f69\Main.py
+2026-05-23T00:01:34+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\fbb442ed-1099-4175-8c54-cd7563072f69\Main.py
+2026-05-23T01:30:15+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\cb2b625d-0844-4df2-be4b-e39ed80dfa66\Config.py
+2026-05-23T01:30:15+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\cb2b625d-0844-4df2-be4b-e39ed80dfa66\Logger.py
+2026-05-23T01:30:15+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\cb2b625d-0844-4df2-be4b-e39ed80dfa66\FormHandler.py
+2026-05-23T01:30:15+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\cb2b625d-0844-4df2-be4b-e39ed80dfa66\Main.py
+2026-05-23T01:30:15+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\cb2b625d-0844-4df2-be4b-e39ed80dfa66\Main.py Ошибка: name 'PERCENTAGE' is not defined
+2026-05-23T01:30:27+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4cceb084-25c1-432d-abfa-bc7d2145646c\Config.py
+2026-05-23T01:30:27+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4cceb084-25c1-432d-abfa-bc7d2145646c\Logger.py
+2026-05-23T01:30:27+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4cceb084-25c1-432d-abfa-bc7d2145646c\FormHandler.py
+2026-05-23T01:30:27+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4cceb084-25c1-432d-abfa-bc7d2145646c\FormHandler.py Ошибка: Unknown format code 'd' for object of type 'float'
+2026-05-23T01:32:46+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\709b8f39-7373-41dd-91cc-b490cc2ec7d3\Logger.py
+2026-05-23T01:32:48+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\709b8f39-7373-41dd-91cc-b490cc2ec7d3\Reader.py
+2026-05-23T01:32:48+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\709b8f39-7373-41dd-91cc-b490cc2ec7d3\Reader.py
+2026-05-23T01:32:53+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\9cca37f6-1a30-4fba-a850-166fa9138899\Config.py
+2026-05-23T01:32:53+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\9cca37f6-1a30-4fba-a850-166fa9138899\Logger.py
+2026-05-23T01:32:53+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\9cca37f6-1a30-4fba-a850-166fa9138899\FormHandler.py
+2026-05-23T01:32:53+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\9cca37f6-1a30-4fba-a850-166fa9138899\Main.py
+2026-05-23T01:33:18+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\9cca37f6-1a30-4fba-a850-166fa9138899\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T01:37:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\abe4c796-5c12-43a7-bb9c-af6541341dcf\Config.py
+2026-05-23T01:37:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\abe4c796-5c12-43a7-bb9c-af6541341dcf\Logger.py
+2026-05-23T01:37:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\abe4c796-5c12-43a7-bb9c-af6541341dcf\FormHandler.py
+2026-05-23T01:37:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\abe4c796-5c12-43a7-bb9c-af6541341dcf\Main.py
+2026-05-23T01:37:12+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\abe4c796-5c12-43a7-bb9c-af6541341dcf\Main.py Ошибка: 'DBPathInput'
+2026-05-23T01:37:17+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\ed114e81-da02-4dce-85e8-c72e18400b8c\Config.py
+2026-05-23T01:37:17+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\ed114e81-da02-4dce-85e8-c72e18400b8c\Logger.py
+2026-05-23T01:37:18+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\ed114e81-da02-4dce-85e8-c72e18400b8c\FormHandler.py
+2026-05-23T01:37:18+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\ed114e81-da02-4dce-85e8-c72e18400b8c\Main.py
+2026-05-23T01:37:40+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\ed114e81-da02-4dce-85e8-c72e18400b8c\Main.py Ошибка: name 'my_1C_DB_PATH' is not defined
+2026-05-23T01:40:44+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\40acab74-16e4-47b4-9a90-0adb2b4b1f96\Config.py
+2026-05-23T01:40:44+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\40acab74-16e4-47b4-9a90-0adb2b4b1f96\Logger.py
+2026-05-23T01:40:44+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\40acab74-16e4-47b4-9a90-0adb2b4b1f96\FormHandler.py
+2026-05-23T01:40:44+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\40acab74-16e4-47b4-9a90-0adb2b4b1f96\Main.py
+2026-05-23T01:41:07+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\40acab74-16e4-47b4-9a90-0adb2b4b1f96\Main.py
+2026-05-23T01:54:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\577ebb08-ea34-4635-a53b-897300dc3e94\Config.py
+2026-05-23T01:54:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\577ebb08-ea34-4635-a53b-897300dc3e94\Logger.py
+2026-05-23T01:54:07+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\577ebb08-ea34-4635-a53b-897300dc3e94\FormHandler.py
+2026-05-23T01:54:07+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\577ebb08-ea34-4635-a53b-897300dc3e94\Main.py
+2026-05-23T01:54:11+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\577ebb08-ea34-4635-a53b-897300dc3e94\Main.py Ошибка: 'selectedFiles'
+2026-05-23T01:57:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\Config.py
+2026-05-23T01:57:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\Logger.py
+2026-05-23T01:57:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\FormHandler.py
+2026-05-23T01:57:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\Reader.py
+2026-05-23T01:57:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\Main.py
+2026-05-23T01:57:58+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\b5ee2475-16e3-491e-b281-b4ab415ddeba\Main.py Ошибка: name 'file_content' is not defined
+2026-05-23T02:04:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\Config.py
+2026-05-23T02:04:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\Logger.py
+2026-05-23T02:04:40+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\FormHandler.py
+2026-05-23T02:04:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\FIleReader.py
+2026-05-23T02:04:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\Main.py
+2026-05-23T02:05:03+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f71f18e3-676a-4094-89c7-1924b4417ebc\Main.py
+2026-05-23T02:08:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\Config.py
+2026-05-23T02:08:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\Logger.py
+2026-05-23T02:08:40+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\FormHandler.py
+2026-05-23T02:08:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\FIleReader.py
+2026-05-23T02:08:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\Main.py
+2026-05-23T02:09:07+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64abbf3f-637c-4c26-ab57-f47704250b22\Main.py
+2026-05-23T02:17:02+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\Config.py
+2026-05-23T02:17:02+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\Logger.py
+2026-05-23T02:17:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\FormHandler.py
+2026-05-23T02:17:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\FIleReader.py
+2026-05-23T02:17:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\Main.py
+2026-05-23T02:17:11+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\f4812ed8-5b6a-4af5-a53d-a742375f0d7f\Main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T02:19:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\Config.py
+2026-05-23T02:19:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\Logger.py
+2026-05-23T02:19:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\FormHandler.py
+2026-05-23T02:19:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\FIleReader.py
+2026-05-23T02:19:06+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\Main.py
+2026-05-23T02:19:52+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\261de877-8b6c-4f40-ae3f-09bbbdfc1cca\Main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T02:21:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64a93c99-2122-4a85-9d0f-1421177ce298\Config.py
+2026-05-23T02:21:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64a93c99-2122-4a85-9d0f-1421177ce298\Logger.py
+2026-05-23T02:21:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\64a93c99-2122-4a85-9d0f-1421177ce298\FormHandler.py
+2026-05-23T02:21:26+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\Config.py
+2026-05-23T02:21:26+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\Logger.py
+2026-05-23T02:21:26+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\FormHandler.py
+2026-05-23T02:21:27+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\FIleReader.py
+2026-05-23T02:21:27+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\Main.py
+2026-05-23T02:21:57+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\60d7c755-89f2-422b-8c1f-b5e48cdf4ab7\Main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T02:22:43+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\Config.py
+2026-05-23T02:22:43+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\Logger.py
+2026-05-23T02:22:43+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\FormHandler.py
+2026-05-23T02:22:45+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\FIleReader.py
+2026-05-23T02:22:45+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\Main.py
+2026-05-23T02:23:11+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\972727df-38b0-4809-93c1-4f550cdaf1da\Main.py
+2026-05-23T16:04:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:04:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:04:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\0bc368be-2ef8-416b-a764-a86a63085a5c\Config.py
+2026-05-23T16:04:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\Config.py
+2026-05-23T16:04:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\0bc368be-2ef8-416b-a764-a86a63085a5c\Logger.py
+2026-05-23T16:04:03+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\Logger.py
+2026-05-23T16:04:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\FormHandler.py
+2026-05-23T16:04:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\0bc368be-2ef8-416b-a764-a86a63085a5c\FormHandler.py
+2026-05-23T16:04:12+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\FIleReader.py
+2026-05-23T16:04:12+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\0bc368be-2ef8-416b-a764-a86a63085a5c\FIleReader.py
+2026-05-23T16:04:14+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\Main.py
+2026-05-23T16:04:14+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\0bc368be-2ef8-416b-a764-a86a63085a5c\Main.py
+2026-05-23T16:04:17+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\4b51b0e9-9a8f-4c18-921b-e9f08bebf283\Main.py Ошибка: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)
+2026-05-23T16:04:17+0300 Окно выполнения: Main: ERROR:  ["[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)"]
+2026-05-23T16:04:17+0300 Окно выполнения: Main: ERROR:  ["[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)"]
+2026-05-23T16:04:25+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:04:26+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:04:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:04:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\Config.py
+2026-05-23T16:04:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\Logger.py
+2026-05-23T16:04:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\FormHandler.py
+2026-05-23T16:04:37+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\FIleReader.py
+2026-05-23T16:04:37+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\Main.py
+2026-05-23T16:04:45+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\7217d2fc-1df0-46f1-98d7-04d5e62e3281\Main.py Ошибка: 'selectedFiles'
+2026-05-23T16:04:45+0300 Окно выполнения: Main: ERROR:  ["'selectedFiles'"]
+2026-05-23T16:04:47+0300 Cannot read properties of undefined (reading 'match')
+2026-05-23T16:04:47+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:05:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:05:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\Config.py
+2026-05-23T16:05:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\Logger.py
+2026-05-23T16:05:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\FormHandler.py
+2026-05-23T16:05:23+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\FIleReader.py
+2026-05-23T16:05:24+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\Main.py
+2026-05-23T16:05:33+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\resource\56f7b71f-508f-46e1-b73f-af9d1673c147\Main.py Ошибка: 'selectedFiles'
+2026-05-23T16:05:33+0300 Окно выполнения: Main: ERROR:  ["'selectedFiles'"]
+2026-05-23T16:05:41+0300 Cannot read properties of undefined (reading 'match')
+2026-05-23T16:05:41+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Hack\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:35:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:35:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\Config.py
+2026-05-23T16:35:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\Logger.py
+2026-05-23T16:35:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\FormHandler.py
+2026-05-23T16:35:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\FIleReader.py
+2026-05-23T16:35:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\Main.py
+2026-05-23T16:35:45+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\adf99045-e478-43d7-8e6e-a55ca9a67f35\Main.py Ошибка: 'selectedFiles'
+2026-05-23T16:35:45+0300 Окно выполнения: Main: ERROR:  ["'selectedFiles'"]
+2026-05-23T16:35:51+0300 Cannot read properties of undefined (reading 'match')
+2026-05-23T16:35:51+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:40:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:40:02+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\Config.py
+2026-05-23T16:40:02+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\Logger.py
+2026-05-23T16:40:02+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\FormHandler.py
+2026-05-23T16:40:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\FIleReader.py
+2026-05-23T16:40:04+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\Main.py
+2026-05-23T16:40:06+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\f87dfe24-6c3a-40ad-842e-4b2bf37b283c\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:40:07+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:40:16+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:41:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:41:50+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\Config.py
+2026-05-23T16:41:50+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\Logger.py
+2026-05-23T16:41:50+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\FormHandler.py
+2026-05-23T16:41:52+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\FIleReader.py
+2026-05-23T16:41:52+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\Main.py
+2026-05-23T16:41:55+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\c42ac22e-0e5f-4e74-9def-fae1d1cda9e9\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:41:55+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:41:57+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:44:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:44:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\Config.py
+2026-05-23T16:44:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\Logger.py
+2026-05-23T16:44:22+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\FormHandler.py
+2026-05-23T16:44:23+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\FIleReader.py
+2026-05-23T16:44:23+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\Main.py
+2026-05-23T16:44:26+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\568e48a3-3e24-406c-b93b-fe7c358d7526\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:44:26+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:44:28+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:44:30+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:44:31+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\Config.py
+2026-05-23T16:44:31+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\Logger.py
+2026-05-23T16:44:31+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\FormHandler.py
+2026-05-23T16:44:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\FIleReader.py
+2026-05-23T16:44:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\Main.py
+2026-05-23T16:44:54+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\757107b9-3b8b-43c8-870b-c260e0ce6cfe\Main.py
+2026-05-23T16:44:55+0300 INFO: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:46:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:46:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\Config.py
+2026-05-23T16:46:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\Logger.py
+2026-05-23T16:46:33+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\FormHandler.py
+2026-05-23T16:46:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\FIleReader.py
+2026-05-23T16:46:35+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\Main.py
+2026-05-23T16:46:38+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\b20c1bc0-4fe7-4948-b2ff-e0342a3440e9\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:46:38+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:46:41+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:47:29+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py
+2026-05-23T16:47:29+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 4tm`|`A[MGz%1:)WqHA)
+2026-05-23T16:47:38+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 4tm`|`A[MGz%1:)WqHA)
+2026-05-23T16:47:38+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 4tm`|`A[MGz%1:)WqHA)
+2026-05-23T16:47:38+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Старт. Выполняемый шаг: Присвоить значение переменной. id: k~[X6QVj8.82(Prb2~4p
+2026-05-23T16:47:39+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: k~[X6QVj8.82(Prb2~4p
+2026-05-23T16:47:39+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: k~[X6QVj8.82(Prb2~4p
+2026-05-23T16:47:39+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Старт. Выполняемый шаг: Присвоить значение переменной. id: 3Zaor8ZqDr!j:a|GrxN4
+2026-05-23T16:47:40+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: 3Zaor8ZqDr!j:a|GrxN4
+2026-05-23T16:47:40+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: 3Zaor8ZqDr!j:a|GrxN4
+2026-05-23T16:47:40+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Старт. Выполняемый шаг: Присвоить значение переменной. id: `]ziu]FS1ezbOtf;ikv`
+2026-05-23T16:47:43+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: `]ziu]FS1ezbOtf;ikv`
+2026-05-23T16:47:43+0300 INFO: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: `]ziu]FS1ezbOtf;ikv`
+2026-05-23T16:47:43+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\553e12cf-fa85-440e-8bb9-b2febde887b6\Config.py
+2026-05-23T16:51:37+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:51:37+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\Config.py
+2026-05-23T16:51:38+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\Logger.py
+2026-05-23T16:51:38+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\FormHandler.py
+2026-05-23T16:51:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\FIleReader.py
+2026-05-23T16:51:39+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\Main.py
+2026-05-23T16:51:42+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\abeccf84-5c1b-40fd-9607-e5f3eb0cd578\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:51:43+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:51:44+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:52:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:52:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\Config.py
+2026-05-23T16:52:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\Logger.py
+2026-05-23T16:52:41+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\FormHandler.py
+2026-05-23T16:52:42+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\FIleReader.py
+2026-05-23T16:52:42+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\Main.py
+2026-05-23T16:52:45+0300 ERROR: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\33928c7c-a692-470f-9d93-1daa919b5eef\Main.py Ошибка: name 'SHOW_LOGS' is not defined
+2026-05-23T16:52:45+0300 Окно выполнения: Main: ERROR:  ["name 'SHOW_LOGS' is not defined"]
+2026-05-23T16:52:47+0300 ERROR: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:54:44+0300 INFO: Запуск процесса из студии разработки. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
+2026-05-23T16:54:45+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\Config.py
+2026-05-23T16:54:45+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\Logger.py
+2026-05-23T16:54:45+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\FormHandler.py
+2026-05-23T16:54:47+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\FIleReader.py
+2026-05-23T16:54:47+0300 INFO: Старт робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\Main.py
+2026-05-23T16:54:51+0300 INFO: Завершение работы робота: C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\resource\13b24bbf-d672-4c07-b496-bc4ffc869b75\Main.py
+2026-05-23T16:54:53+0300 INFO: Завершение выполнения процесса. C:\Users\4aik\Documents\ПКС\3_curse\6_sem\Your_ad_could_be_here_case_2\Кейс2_СозданиеДокументов1С\process\Main.json
