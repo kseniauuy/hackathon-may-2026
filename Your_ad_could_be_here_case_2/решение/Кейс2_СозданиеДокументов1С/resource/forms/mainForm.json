@@ -1,0 +1,207 @@
+{
+  "version": 3,
+  "window": {
+    "title": "Управление документооборотом 1С",
+    "width": 607,
+    "height": 552,
+    "isMinimizable": false
+  },
+  "ui": {
+    "padding": {
+      "inline": 16,
+      "block": 16
+    },
+    "backgroundColor": "#fcfcfaff",
+    "textColor": "#222222",
+    "titleColor": "#6800ffff",
+    "titleTextColor": "#fcfcfaff",
+    "theme": "green"
+  },
+  "fields": [
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "text",
+          "id": "DBPathInput",
+          "label": "Путь к базе данных 1С",
+          "tooltipText": "Путь к базе данных 1С",
+          "default": "",
+          "ui": {
+            "width": "fill",
+            "backgroundColor": "#ffffff",
+            "borderColor": "#526c8226",
+            "textColor": "#10161B",
+            "labelColor": "#526D89",
+            "labelPosition": "top",
+            "margin": {
+              "bottom": 12,
+              "top": 12,
+              "right": 12,
+              "left": 12
+            }
+          },
+          "placeholder": "http://my.1c.ru/api"
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "text",
+          "id": "loginInput",
+          "label": "Логин от 1С",
+          "tooltipText": "Логин для авторизации в 1С",
+          "default": "",
+          "ui": {
+            "width": "fill",
+            "backgroundColor": "#ffffff",
+            "borderColor": "#526c8226",
+            "textColor": "#10161B",
+            "labelColor": "#526D89",
+            "labelPosition": "top",
+            "margin": {
+              "bottom": 12,
+              "top": 12,
+              "right": 12,
+              "left": 12
+            }
+          },
+          "placeholder": "User123"
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "text",
+          "id": "passwordInput",
+          "label": "Пароль от 1С",
+          "tooltipText": "Пароль для авторизации в 1С",
+          "default": "",
+          "ui": {
+            "width": "fill",
+            "backgroundColor": "#ffffff",
+            "borderColor": "#526c8226",
+            "textColor": "#10161B",
+            "labelColor": "#526D89",
+            "labelPosition": "top",
+            "margin": {
+              "bottom": 12,
+              "top": 12,
+              "right": 12,
+              "left": 12
+            }
+          },
+          "placeholder": "Password123"
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "checkbox",
+          "id": "logCheckbox",
+          "label": "Логирование",
+          "tooltipText": "РЕКОМЕНДУЕТСЯ не отключать данный параметр",
+          "default": true,
+          "ui": {
+            "width": "auto",
+            "borderColor": "#526c8226",
+            "labelColor": "#526D89",
+            "labelPosition": "right",
+            "margin": {
+              "bottom": 12,
+              "top": 12,
+              "right": 12,
+              "left": 12
+            },
+            "markerColor": "#FFFFFF",
+            "markerFillColor": "#6800ffff"
+          }
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "file",
+          "id": "selectedFiles",
+          "label": "Выберите файл(-ы) с данными для документов (JSON, Excel)",
+          "tooltipText": "Выберите файл(-ы) с данными для документов",
+          "default": "",
+          "ui": {
+            "width": "fill",
+            "backgroundColor": "#1FB2861A",
+            "borderColor": "#1768C500",
+            "textColor": "#6800ffff",
+            "labelColor": "#526D89",
+            "labelPosition": "top",
+            "margin": {
+              "bottom": 12,
+              "top": 12,
+              "right": 12,
+              "left": 12
+            }
+          },
+          "allowMultiple": true,
+          "directory": false,
+          "fileTypes": "json,xlsx,csv"
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "fields": [
+        {
+          "type": "group",
+          "label": "Группа 1",
+          "ui": {
+            "width": "fill",
+            "backgroundColor": "#00000000",
+            "labelColor": "#526D89",
+            "direction": "horizontal",
+            "align": "center",
+            "margin": {
+              "bottom": 0,
+              "top": 0,
+              "right": 0,
+              "left": 0
+            }
+          },
+          "fields": [
+            {
+              "type": "button",
+              "id": "setupConfigBtn",
+              "label": "Запуск",
+              "ui": {
+                "width": "fill",
+                "backgroundColor": "#6800ffff",
+                "borderColor": "#1768C500",
+                "textColor": "#FFFFFF",
+                "margin": {
+                  "bottom": 12,
+                  "top": 12,
+                  "right": 12,
+                  "left": 12
+                }
+              },
+              "buttonProps": {
+                "type": "submit",
+                "onClick": {
+                  "name": "clickSetup",
+                  "safeName": "clickSetup"
+                },
+                "resultKey": "submit_result"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
