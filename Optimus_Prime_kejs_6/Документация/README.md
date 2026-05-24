@@ -56,7 +56,9 @@ PDFYandexVisionBlock/
 ├── code.value.py
 ├── libs.py.json
 ├── typeToName.json
-├── expected_output.json
+├── README.md
+├── showcase_expected_output.json
+├── showcase_input.pdf
 └── src/
     └── __init__.py
 ```
