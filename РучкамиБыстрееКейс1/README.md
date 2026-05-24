@@ -42,7 +42,8 @@
 
 ## Видеодемонстрация
 
-<img width="400" height="225" alt="2026-05-23 17-04-14" src="https://github.com/user-attachments/assets/a0300f0f-8f26-41e0-9e3d-466da0f83d6c" />
+<img width="400" height="225" alt="2026-05-24 11-54-12" src="https://github.com/user-attachments/assets/952c8e71-003a-4090-8baf-a80339650aad" />
+
 
 [Ссылка](https://rutube.ru/video/bb5607852848679c27f4f2e4b8b16a12/?r=wd)
 
