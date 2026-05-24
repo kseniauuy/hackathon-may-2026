@@ -25,16 +25,8 @@ PDFYandexVisionBlock — расширение для Puzzle RPA, которое 
 
 <p align="center">
   <img src="../Демо/OCR%20EXAMPLE.png"
-       alt="PDF OCR Example" width="700">
+       alt="PDF OCR Example" width="900">
 </p>
-
-
-Если позже добавите GitHub Actions, эти бейджи будут показывать:
-
-- статус сборки;
-- статус CodeQL/security checks;
-- версию релиза;
-- активность по коммитам и issues.
 
 ## ⚙️ Что делает блок
 
