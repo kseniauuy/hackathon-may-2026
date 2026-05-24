@@ -1,1 +1,0 @@
-WordFormatterExtension.format_word_document(${vc('input_path')},${vc('output_path')},${vc('font_name')},${vc('font_size')},${vc('replacements')},#isInternalLog)
