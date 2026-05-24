@@ -1,1 +1,0 @@
-PDFYandexVisionBlock.process_pdf(${vc('TOKEN')}, ${vc('FOLDER_ID')}, ${vc('FILE_PATH')}, '${fv('LANGUAGE')}', '${fv('OUTPUT_FORMAT')}',#isInternalLog)
