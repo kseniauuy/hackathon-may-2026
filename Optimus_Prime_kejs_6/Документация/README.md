@@ -199,8 +199,4 @@ https://oauth.yandex.ru/authorize?response_type=token&client_id=1a6990aa636648e9
 
 ## 🎬 Демонстрация работы
 
-
-<video src="../Демо/demo.mp4" width="900" controls></video>
-
-
 [Смотреть демонстрацию работы](../Демо/Demo.mp4)
