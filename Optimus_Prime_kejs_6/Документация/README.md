@@ -72,16 +72,6 @@ PDFYandexVisionBlock/
 - `src/__init__.py` — основная логика OCR и обработки.
 - `expected_output.json` — пример ожидаемого результата.
 
-## ⚠️ Важное замечание по API
-
-В описании кейса упоминается endpoint `vision/v1/batchAnalyze`, однако
-текущая публичная OCR API Yandex предоставляет endpoint
-`ocr/v1/recognizeText`, который поддерживает PDF-документы и возвращает
-таблицы.
-
-Поэтому в проекте используется именно OCR REST endpoint Yandex Vision,
-чтобы решение работало в реальных условиях.
-
 ## 📋 Требования
 
 - Windows 10/11.
