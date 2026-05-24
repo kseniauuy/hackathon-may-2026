@@ -1,2 +1,0 @@
-Нужно установить pywin32:
-pip install pywin32
