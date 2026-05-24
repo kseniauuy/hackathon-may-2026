@@ -47,3 +47,5 @@
 
 [Ссылка](https://rutube.ru/video/bb5607852848679c27f4f2e4b8b16a12/?r=wd)
 
+
+Ссылка на видео: https://drive.google.com/drive/folders/1aHyViDu1pV0eIXiLbbIOogKtSG6pmODT
