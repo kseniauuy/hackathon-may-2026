@@ -1,0 +1,18 @@
+{
+  "document_type": "СчетПокупателю",
+  "base_url": "https://demo1c.mkskom.ru/puzzle_buh_corp_8.3/ru/",
+  "section": "Продажи",
+  "subsection": "Счета покупателям",
+  "search_criteria": {
+    "number": "",
+    "date_from": "01.08.2025",
+    "date_to": "31.08.2025",
+    "counterparty": "",
+    "sum_from": 0,
+    "sum_to": 0
+  },
+  "mode": "first_only",
+  "output_path": "resource/print_forms",
+  "output_format": "pdf",
+  "file_name_template": "документ_{number}_{date}.pdf"
+}

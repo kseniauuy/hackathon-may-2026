@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Кейс 3 — Поиск документа и формирование печатной формы</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Unbounded:wght@400;700;900&display=swap');
+
+  :root {
+    --bg: #0d0f14;
+    --surface: #161b25;
+    --border: #1e2736;
+    --accent: #00c2ff;
+    --accent2: #7b5ea7;
+    --accent3: #00e5a0;
+    --warn: #ff6b35;
+    --text: #cdd6e8;
+    --text-dim: #5a6882;
+    --node-bg: #1a2235;
+    --node-hover: #1f2d45;
+    --arrow: #2a3a55;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,194,255,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,194,255,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  header {
+    position: relative;
+    z-index: 10;
+    padding: 32px 40px 24px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: linear-gradient(180deg, rgba(0,194,255,0.05) 0%, transparent 100%);
+  }
+
+  .logo {
+    background: var(--accent);
+    color: #000;
+    font-family: 'Unbounded', sans-serif;
+    font-weight: 900;
+    font-size: 11px;
+    padding: 6px 10px;
+    letter-spacing: 0.05em;
+    clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+  }
+
+  .header-info h1 {
+    font-family: 'Unbounded', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.02em;
+  }
+  .header-info p {
+    font-size: 10px;
+    color: var(--text-dim);
+    margin-top: 3px;
+    letter-spacing: 0.05em;
+  }
+
+  .badge {
+    margin-left: auto;
+    font-size: 10px;
+    padding: 4px 12px;
+    border: 1px solid var(--accent2);
+    color: var(--accent2);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .main {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    gap: 0;
+    min-height: calc(100vh - 80px);
+  }
+
+  .flow-col {
+    flex: 0 0 380px;
+    padding: 32px 0 32px 40px;
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+  }
+
+  .detail-panel {
+    flex: 1;
+    padding: 32px 40px;
+    position: sticky;
+    top: 0;
+    height: calc(100vh - 80px);
+    overflow-y: auto;
+  }
+
+  .detail-empty {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-dim);
+    gap: 12px;
+    text-align: center;
+  }
+  .detail-empty .icon { font-size: 48px; opacity: 0.3; }
+  .detail-empty p { font-size: 11px; max-width: 200px; line-height: 1.6; }
+
+  .detail-card { display: none; }
+  .detail-card.active { display: block; animation: fadeIn 0.2s ease; }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  .detail-card h2 {
+    font-family: 'Unbounded', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .detail-card .fn-sig {
+    font-size: 10px;
+    color: var(--accent);
+    margin-bottom: 20px;
+    letter-spacing: 0.05em;
+  }
+
+  .io-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .io-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 12px;
+  }
+  .io-box label {
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    display: block;
+    margin-bottom: 8px;
+  }
+  .io-box ul { list-style: none; }
+  .io-box li {
+    font-size: 11px;
+    color: var(--text);
+    padding: 3px 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .io-box li:last-child { border-bottom: none; }
+  .io-box li::before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent3);
+    flex-shrink: 0;
+  }
+  .io-box.out li::before { background: var(--accent); }
+
+  .steps-list { list-style: none; }
+  .steps-list li {
+    display: flex;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 11px;
+    line-height: 1.5;
+  }
+  .steps-list li:last-child { border-bottom: none; }
+  .step-num {
+    width: 20px;
+    height: 20px;
+    border: 1px solid var(--accent2);
+    color: var(--accent2);
+    font-size: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .note-box {
+    margin-top: 16px;
+    padding: 12px;
+    border-left: 3px solid var(--warn);
+    background: rgba(255,107,53,0.05);
+    font-size: 11px;
+    color: var(--warn);
+    line-height: 1.5;
+  }
+
+  .node-wrap {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    animation: slideIn 0.4s ease both;
+  }
+
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateX(-16px); }
+    to { opacity: 1; transform: none; }
+  }
+
+  .node {
+    width: 300px;
+    background: var(--node-bg);
+    border: 1px solid var(--border);
+    padding: 11px 16px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .node::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--accent);
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .node:hover, .node.active {
+    background: var(--node-hover);
+    border-color: var(--accent);
+  }
+  .node:hover::before, .node.active::before { opacity: 1; }
+
+  .node.special {
+    background: rgba(0,194,255,0.06);
+    border-color: var(--accent);
+  }
+  .node.special::before { opacity: 0.5; }
+
+  .node.terminal {
+    border-color: var(--accent3);
+    background: rgba(0,229,160,0.05);
+  }
+  .node.terminal::before { background: var(--accent3); opacity: 0.5; }
+
+  .node.warn-node {
+    border-color: var(--warn);
+    background: rgba(255,107,53,0.05);
+  }
+  .node.warn-node::before { background: var(--warn); opacity: 0.5; }
+
+  .node-icon {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    flex-shrink: 0;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid var(--border);
+  }
+
+  .node-title {
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    flex: 1;
+  }
+  .node-sub {
+    font-size: 9px;
+    color: var(--text-dim);
+    margin-top: 2px;
+    letter-spacing: 0.05em;
+  }
+
+  .node-idx {
+    font-size: 9px;
+    color: var(--text-dim);
+    opacity: 0.6;
+    flex-shrink: 0;
+  }
+
+  .connector {
+    width: 3px;
+    height: 20px;
+    background: linear-gradient(180deg, var(--arrow), rgba(42,58,85,0.3));
+    margin-left: 28px;
+    position: relative;
+  }
+  .connector::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: -3px;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid var(--arrow);
+  }
+
+  .foreach-wrap {
+    width: 300px;
+    margin: 8px 0;
+  }
+  .foreach-header {
+    background: rgba(123,94,167,0.15);
+    border: 1px solid var(--accent2);
+    border-bottom: none;
+    padding: 8px 14px;
+    font-size: 10px;
+    color: var(--accent2);
+    letter-spacing: 0.1em;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .foreach-body {
+    border: 1px solid var(--accent2);
+    border-top: none;
+    padding: 8px;
+    border-left: 3px solid var(--accent2);
+  }
+  .foreach-footer {
+    background: rgba(123,94,167,0.08);
+    border: 1px solid var(--accent2);
+    border-top: 1px dashed rgba(123,94,167,0.3);
+    padding: 6px 14px;
+    font-size: 9px;
+    color: rgba(123,94,167,0.6);
+    text-align: right;
+    letter-spacing: 0.08em;
+  }
+
+  .node.start-end {
+    background: transparent;
+    border: 2px solid var(--accent3);
+    justify-content: center;
+    border-radius: 2px;
+  }
+  .node.start-end .node-title {
+    font-family: 'Unbounded', sans-serif;
+    font-size: 10px;
+    text-align: center;
+    color: var(--accent3);
+  }
+
+  .tag {
+    display: inline-block;
+    font-size: 8px;
+    padding: 2px 6px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+  .tag.key { background: rgba(0,194,255,0.12); color: var(--accent); border: 1px solid var(--accent); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">PUZZLE<br>RPA</div>
+  <div class="header-info">
+    <h1>Кейс 3 — Поиск документа и формирование печатной формы</h1>
+    <p>MAIN.ROBOT · 10 функций · 1С ВЕБ-КЛИЕНТ</p>
+  </div>
+  <div class="badge">v1.0 · Команда 7</div>
+</header>
+
+<div class="main">
+  <div class="flow-col" id="flow"></div>
+  <div class="detail-panel">
+    <div class="detail-empty" id="detailEmpty">
+      <div class="icon">⬡</div>
+      <p>Нажмите на любой блок слева, чтобы увидеть детали функции</p>
+    </div>
+    <div id="detailCards"></div>
+  </div>
+</div>
+
+<script>
+const nodes = [
+  {
+    id: 'start',
+    type: 'start-end',
+    title: 'START',
+    color: 'terminal',
+    detail: null
+  },
+  {
+    id: 'LoadConfig',
+    icon: '⚙',
+    title: 'LoadConfig()',
+    sub: 'Чтение конфига',
+    detail: {
+      sig: 'LoadConfig(resource/config.json) → config',
+      inputs: ['resource/config.json'],
+      outputs: ['config (object)'],
+      steps: [
+        'Читает файл resource/config.json блоком «Прочитать файл» с типом JSON',
+        'Возвращает объект config',
+        'Пишет лог «Конфигурация загружена»'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'ValidateConfig',
+    icon: '✓',
+    title: 'ValidateConfig()',
+    sub: 'Проверка полей конфига',
+    detail: {
+      sig: 'ValidateConfig(config) → is_config_valid, error_message',
+      inputs: ['config'],
+      outputs: ['is_config_valid', 'error_message'],
+      steps: [
+        'Проверяет наличие поля: document_type',
+        'Проверяет наличие поля: mode',
+        'Проверяет наличие поля: output_path',
+        'Проверяет output_path на запрещённые символы Windows (: * ? < > | ")',
+        'Если поле отсутствует или некорректно — is_config_valid = ложь, лог ERROR',
+        'Если всё корректно — is_config_valid = истина'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'PrepareEnvironment',
+    icon: '📁',
+    title: 'PrepareEnvironment()',
+    sub: 'Подготовка папок и путей',
+    color: 'special',
+    detail: {
+      sig: 'PrepareEnvironment(config) → report_path, summary_path',
+      inputs: ['config'],
+      outputs: ['report_path', 'summary_path'],
+      steps: [
+        'Создаёт папку для сохранения печатных форм (config.output_path)',
+        'Подготавливает путь для report.csv → report_path',
+        'Подготавливает путь для summary.txt → summary_path',
+        'Пишет лог «Папки подготовлены»'
+      ],
+      note: 'Без этой функции ProcessDocument() не сможет сохранить файлы — папка должна существовать заранее.'
+    }
+  },
+  {
+    id: 'SearchDocuments',
+    icon: '🔍',
+    title: 'SearchDocuments()',
+    sub: 'Поиск через 1С веб-клиент',
+    detail: {
+      sig: 'SearchDocuments(config) → documents, found_count',
+      inputs: ['config'],
+      outputs: ['documents (list)', 'found_count'],
+      steps: [
+        'Создаёт сессию браузера (Яндекс)',
+        'Открывает страницу 1С веб-клиента (config.base_url)',
+        'Авторизуется: вводит логин и пароль, нажимает «Войти»',
+        'Переходит в раздел config.section (например «Продажи»)',
+        'Открывает config.subsection (например «Счета покупателям»)',
+        'Устанавливает период через «Еще → Установить период»: date_from, date_to',
+        'Вводит контрагента в поле фильтра',
+        'Считывает результаты из таблицы'
+      ],
+      note: 'Взаимодействие с 1С — через веб-клиент. Робот нажимает кнопки как пользователь. Используются блоки категории «1С веб-клиент» Puzzle RPA.'
+    }
+  },
+  {
+    id: 'CheckSearchResults',
+    icon: '?',
+    title: 'CheckSearchResults()',
+    sub: 'Есть ли документы?',
+    color: 'warn-node',
+    detail: {
+      sig: 'CheckSearchResults(documents, found_count) → has_documents',
+      inputs: ['documents', 'found_count'],
+      outputs: ['has_documents (bool)'],
+      steps: [
+        'Проверяет количество найденных документов',
+        'Если found_count = 0 — пишет лог «Документы не найдены», has_documents = ложь',
+        'При has_documents = ложь: переход сразу к GenerateFinalReport()',
+        'При has_documents = истина: переход к PrepareDocumentsList()'
+      ],
+      note: 'Ветвление. Если найдено 0 документов — цикл FOR EACH пропускается, итоговый статус будет NO_DOCUMENTS.'
+    }
+  },
+  {
+    id: 'PrepareDocumentsList',
+    icon: '☰',
+    title: 'PrepareDocumentsList()',
+    sub: 'Фильтрация по режиму',
+    detail: {
+      sig: 'PrepareDocumentsList(documents, config.mode) → documents_to_process',
+      inputs: ['documents', 'config.mode'],
+      outputs: ['documents_to_process (list)'],
+      steps: [
+        'Если mode = "first_only" — берёт только первый документ из списка',
+        'Если mode = "all" — берёт все найденные документы'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'foreach',
+    type: 'foreach',
+    inner: {
+      id: 'ProcessDocument',
+      icon: '⚙',
+      title: 'ProcessDocument(document)',
+      sub: 'Получение и сохранение печатной формы',
+      color: 'special',
+      detail: {
+        sig: 'ProcessDocument(document, config) → is_success, result_row',
+        inputs: ['document', 'config'],
+        outputs: ['is_success (bool)', 'result_row (номер, дата, контрагент, сумма, статус, путь, ошибка)'],
+        steps: [
+          '① Открывает документ в 1С веб-клиенте (кликает по строке таблицы)',
+          '② Нажимает кнопку «Печать», выбирает форму',
+          '③ Сохраняет файл через диалог или блок «Работа с файлами 1С»',
+          '④ Формирует строку для отчёта: номер, дата, контрагент, сумма, статус, путь к файлу, ошибка',
+          '⑤ Возвращает result_row и is_success'
+        ],
+        note: 'Внутри обязателен Try-Catch. Ошибка одного документа не должна останавливать обработку остальных.'
+      }
+    }
+  },
+  {
+    id: 'GenerateFinalReport',
+    icon: '📊',
+    title: 'GenerateFinalReport()',
+    sub: 'Формирование report.csv',
+    detail: {
+      sig: 'GenerateFinalReport(report_rows, found_count, success_count, error_count, start_time) → report.csv',
+      inputs: ['report_rows', 'found_count', 'success_count', 'error_count', 'start_time'],
+      outputs: ['report.csv'],
+      steps: [
+        'Формирует заголовок CSV: Номер;Дата;Контрагент;Сумма;Статус;Путь;Ошибка',
+        'Добавляет строку для каждого обработанного документа',
+        'Сохраняет файл через блок «Сохранить файл»',
+        'Пишет лог «report.csv сформирован»'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'GenerateSummary',
+    icon: '📋',
+    title: 'GenerateSummary()',
+    sub: 'Формирование summary.txt',
+    detail: {
+      sig: 'GenerateSummary(found_count, success_count, error_count, start_time, run_status) → summary.txt',
+      inputs: ['found_count', 'success_count', 'error_count', 'start_time', 'run_status'],
+      outputs: ['summary.txt'],
+      steps: [
+        'Формирует текст итогов: дата запуска, найдено, успешно, ошибок, статус',
+        'Сохраняет файл через блок «Сохранить файл»',
+        'Пишет лог «summary.txt сформирован»'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'FinishProcess',
+    icon: '🏁',
+    title: 'FinishProcess()',
+    sub: 'Финальный статус и лог',
+    color: 'special',
+    detail: {
+      sig: 'FinishProcess(success_count, error_count, found_count) → run_status',
+      inputs: ['success_count', 'error_count', 'found_count'],
+      outputs: ['run_status'],
+      steps: [
+        'SUCCESS — все документы обработаны без ошибок',
+        'PARTIAL_SUCCESS — часть документов обработана с ошибками',
+        'NO_DOCUMENTS — документы не найдены по критериям',
+        'FAILED — критическая ошибка процесса',
+        'Пишет финальный лог со статусом',
+        'Завершает процесс'
+      ],
+      note: null
+    }
+  },
+  {
+    id: 'end',
+    type: 'start-end',
+    title: 'END',
+    color: 'terminal',
+    detail: null
+  }
+];
+
+function buildFlowNode(node) {
+  if (node.type === 'start-end') {
+    return `
+      <div class="node-wrap" style="animation-delay:${node._delay}s">
+        <div class="node start-end ${node.color}" data-id="${node.id}">
+          <div class="node-title">${node.title}</div>
+        </div>
+      </div>`;
+  }
+
+  if (node.type === 'foreach') {
+    const inner = node.inner;
+    return `
+      <div class="node-wrap" style="animation-delay:${node._delay}s">
+        <div class="foreach-wrap">
+          <div class="foreach-header">↻ FOR EACH document in documents_to_process</div>
+          <div class="foreach-body">
+            <div class="node ${inner.color}" data-id="${inner.id}" style="width:100%">
+              <div class="node-icon">${inner.icon}</div>
+              <div>
+                <div class="node-title">${inner.title} <span class="tag key">CORE</span></div>
+                <div class="node-sub">${inner.sub}</div>
+              </div>
+            </div>
+          </div>
+          <div class="foreach-footer">END FOR</div>
+        </div>
+      </div>`;
+  }
+
+  return `
+    <div class="node-wrap" style="animation-delay:${node._delay}s">
+      <div class="node ${node.color || ''}" data-id="${node.id}">
+        <div class="node-icon">${node.icon}</div>
+        <div style="flex:1">
+          <div class="node-title">${node.title}</div>
+          ${node.sub ? `<div class="node-sub">${node.sub}</div>` : ''}
+        </div>
+        <div class="node-idx">${node._idx}</div>
+      </div>
+    </div>`;
+}
+
+function buildDetailCard(id, detail) {
+  if (!detail) return '';
+  const inputsList = detail.inputs.length
+    ? detail.inputs.map(i => `<li>${i}</li>`).join('')
+    : '<li style="color:var(--text-dim); font-style:italic">нет</li>';
+  const outputsList = detail.outputs.map(o => `<li>${o}</li>`).join('');
+  const stepsList = detail.steps.map((s, i) => `
+    <li><div class="step-num">${i+1}</div><div>${s}</div></li>
+  `).join('');
+  const note = detail.note ? `<div class="note-box">⚠ ${detail.note}</div>` : '';
+
+  return `
+    <div class="detail-card" id="card-${id}">
+      <h2>${id}()</h2>
+      <div class="fn-sig">${detail.sig}</div>
+      <div class="io-grid">
+        <div class="io-box">
+          <label>Входные данные</label>
+          <ul>${inputsList}</ul>
+        </div>
+        <div class="io-box out">
+          <label>Выходные данные</label>
+          <ul>${outputsList}</ul>
+        </div>
+      </div>
+      <ul class="steps-list">${stepsList}</ul>
+      ${note}
+    </div>`;
+}
+
+const flow = document.getElementById('flow');
+const cards = document.getElementById('detailCards');
+let idx = 1;
+let delay = 0;
+
+nodes.forEach(node => {
+  node._delay = delay;
+  delay += 0.04;
+  if (node.type !== 'start-end') node._idx = `#${idx++}`;
+  if (node.id !== 'start') {
+    flow.innerHTML += `<div class="connector" style="animation:slideIn 0.4s ease ${node._delay - 0.04}s both"></div>`;
+  }
+  flow.innerHTML += buildFlowNode(node);
+  if (node.type === 'foreach') {
+    cards.innerHTML += buildDetailCard(node.inner.id, node.inner.detail);
+  } else {
+    cards.innerHTML += buildDetailCard(node.id, node.detail);
+  }
+});
+
+document.querySelectorAll('.node[data-id]').forEach(el => {
+  el.addEventListener('click', () => {
+    const id = el.dataset.id;
+    if (!document.getElementById(`card-${id}`)) return;
+    document.querySelectorAll('.node').forEach(n => n.classList.remove('active'));
+    el.classList.add('active');
+    document.getElementById('detailEmpty').style.display = 'none';
+    document.querySelectorAll('.detail-card').forEach(c => c.classList.remove('active'));
+    const card = document.getElementById(`card-${id}`);
+    if (card) card.classList.add('active');
+  });
+});
+</script>
+</body>
+</html>
