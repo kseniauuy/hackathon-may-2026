@@ -200,5 +200,5 @@ https://oauth.yandex.ru/authorize?response_type=token&client_id=1a6990aa636648e9
 ## 🎬 Демонстрация работы
 
 <p align="center">
-  <video src="../Демо/demo.mp4" width="900" controls></video>
+  <video src="../Демо/Demo.mp4" width="900" controls></video>
 </p>
