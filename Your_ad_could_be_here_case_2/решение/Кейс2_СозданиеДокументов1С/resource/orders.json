@@ -1,0 +1,26 @@
+[
+  {
+    "document_type": "Документ.СчетНаОплату",
+    "section": "Продажи",
+    "subsection": "Счета покупателям",
+    "number": "СЧ-001",
+    "date": "2025-04-01",
+    "counterparty": "Кафе \"Аполлон\"",
+    "organization": "Магазин №23",
+    "sum": 13500.00,
+    "items": [
+      {
+        "product": "Ассорти",
+        "quantity": 5,
+        "price": 1500,
+        "sum": 7500
+      },
+      {
+        "product": "Белочка",
+        "quantity": 3,
+        "price": 2000,
+        "sum": 6000
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+<block type="WordFormatterExtension">
+  <value name="output_path"><shadow type="text"><field name="TEXT"> </field></shadow></value>
+  <value name="font_name"><shadow type="text"><field name="TEXT">Calibri</field></shadow></value>
+  <value name="font_size"><shadow type="math_number"><field name="NUM">12</field></shadow></value>
+  <value name="replacements"><shadow type="text"><field name="TEXT"> </field></shadow></value>
+</block>

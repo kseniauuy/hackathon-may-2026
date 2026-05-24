@@ -1,0 +1,1 @@
+<block type="word_formatter"><value name="path_file"><shadow type="text"><field name="TEXT"></field></shadow></value><value name="path_file_end"><shadow type="text"><field name="TEXT"></field></shadow></value><value name="replacements"><block type="variables_get"><field name="VAR">my_dict</field></block></value></block>
