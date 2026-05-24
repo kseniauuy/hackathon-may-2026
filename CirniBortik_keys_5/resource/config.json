@@ -1,0 +1,10 @@
+{
+  "report_type": "osv",
+  "period_start": "01.03.2025",
+  "period_end": "31.03.2025",
+  "organization": "Магазин №23",
+  "account": "60.01",
+  "output_path": "resource/output",
+  "output_format": "xlsx",
+  "file_name": "osv_march"
+}
