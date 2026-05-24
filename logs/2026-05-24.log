@@ -9764,3 +9764,27 @@
 2026-05-24T11:53:31+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\9c1f9d68-cdf2-4d6e-bf76-0a20106126d6\main.py Выполнение. Выполняемый шаг: Группировка блоков. id: =7fxwg/M]Y6+GT[Stk7!
 2026-05-24T11:53:31+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\9c1f9d68-cdf2-4d6e-bf76-0a20106126d6\main.py Выполнение. Выполняемый шаг: Присвоить значение переменной. id: jMBKenGW}MvB]@BLj|h;
 2026-05-24T11:53:31+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\9c1f9d68-cdf2-4d6e-bf76-0a20106126d6\main.py Завершение. Выполняемый шаг: Присвоить значение переменной. id: jMBKenGW}MvB]@BLj|h;
+2026-05-24T12:36:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-24T12:36:47+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py
+2026-05-24T12:36:47+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py Робот запущен
+2026-05-24T12:36:47+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py Отправляю запрос в 1С
+2026-05-24T12:37:25+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py Ответ получен. Сохраняю в файл
+2026-05-24T12:37:35+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py Ошибка выполнения робота
+2026-05-24T12:37:35+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\42a83723-f67b-46fe-a25f-938ec9ebbbab\main.py
+2026-05-24T12:37:35+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-24T12:38:41+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-24T12:38:42+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py
+2026-05-24T12:38:42+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py Робот запущен
+2026-05-24T12:38:42+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py Отправляю запрос в 1С
+2026-05-24T12:39:20+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py Ответ получен. Сохраняю в файл
+2026-05-24T12:39:31+0300 ERROR: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py Ошибка выполнения робота
+2026-05-24T12:39:31+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\e08127c2-3ca1-468d-9f6f-cffc52999ec0\main.py
+2026-05-24T12:39:31+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-24T12:41:08+0300 INFO: Запуск процесса из студии разработки. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
+2026-05-24T12:41:09+0300 INFO: Старт робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py
+2026-05-24T12:41:09+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py Робот запущен
+2026-05-24T12:41:09+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py Отправляю запрос в 1С
+2026-05-24T12:41:39+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py Ответ получен. Сохраняю в файл
+2026-05-24T12:41:41+0300 INFO: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py Файл создан:C:\Users\Ksenya\Desktop\hakaton\main\resource\output.xlsxosv_march_2026
+2026-05-24T12:41:41+0300 INFO: Завершение работы робота: C:\Users\Ksenya\Desktop\hakaton\main\resource\934dd1fc-77f5-4681-9730-4474c7dd1202\main.py
+2026-05-24T12:41:41+0300 INFO: Завершение выполнения процесса. C:\Users\Ksenya\Desktop\hakaton\main\process\main.json
