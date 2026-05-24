@@ -25,22 +25,9 @@ PDFYandexVisionBlock — расширение для Puzzle RPA, которое 
 
 <p align="center">
   <img src="../Демо/OCR%20EXAMPLE.png"
-       alt="PDF OCR Example" width="500">
+       alt="PDF OCR Example" width="700">
 </p>
 
-## 🏷️ GitHub Badges
-
-Для этого проекта актуальнее показывать совместимость с `Python 3.11`, `Windows` и `Puzzle RPA`, а не стандарт C++.
-
-Если вы выложите проект на GitHub, можно добавить живые бейджи CI/CD и security checks. Замените `OWNER/REPO` на ваш репозиторий:
-
-```md
-![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/OWNER/REPO/actions/workflows/codeql.yml/badge.svg)
-![Release](https://img.shields.io/github/v/release/OWNER/REPO)
-![Issues](https://img.shields.io/github/issues/OWNER/REPO)
-![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPO)
-```
 
 Если позже добавите GitHub Actions, эти бейджи будут показывать:
 
